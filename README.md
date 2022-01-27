@@ -1,6 +1,6 @@
 ### Hi there 👋, This ia Aaditya Thapa
 #### I am currently studying at grade 10
-![I am currently studying at grade 10](https://share.creavite.co/FtSVXcCIZ95dLtFq.gif)
+![Currently studying at grade 10](https://share.creavite.co/FtSVXcCIZ95dLtFq.gif)
 
 I am currently learning C language and planning to learn python in coming future
 
