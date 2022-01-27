@@ -1,4 +1,4 @@
-### Hi there 👋, This ia Aaditya Thapa
+### Hi there 👋, This is Aaditya Thapa
 #### I am currently studying at grade 10
 ![Currently studying at grade 10](https://share.creavite.co/FtSVXcCIZ95dLtFq.gif)
 
