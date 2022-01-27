@@ -1,5 +1,5 @@
 ### Hi there 👋, This is Aaditya Thapa
-####Currently studying at grade 10
+#### Currently studying at grade 10
 ![Currently studying at grade 10](https://share.creavite.co/FtSVXcCIZ95dLtFq.gif)
 
 I am currently learning C language and planning to learn python in coming future
