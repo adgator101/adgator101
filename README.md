@@ -1,10 +1,10 @@
 ### Hi there 👋, This is Aaditya Thapa
-#### Currently studying at grade 10
-![Currently studying at grade 10](https://share.creavite.co/FtSVXcCIZ95dLtFq.gif)
+#### Currently studying at grade 11
+![Currently studying at grade 11](https://share.creavite.co/FtSVXcCIZ95dLtFq.gif)
 
-I am currently learning C language and planning to learn python in coming future
+Currently Learning JS
 
-Skills: HTML/CSS/QBASIC/C
+Skills: HTML/CSS//C
 
 - 🌱 I’m currently learning C  
 - 😄 Pronouns: HE/HIM 
