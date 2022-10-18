@@ -2,8 +2,6 @@
 #### Currently studying at grade 11
 ![Currently studying at grade 11](https://share.creavite.co/FtSVXcCIZ95dLtFq.gif)
 
-Currently Learning JS
-
 Skills: HTML/CSS//C
 
 - Currently learning JS
