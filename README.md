@@ -6,8 +6,7 @@ Currently Learning JS
 
 Skills: HTML/CSS//C
 
-- 🌱 I’m currently learning C  
-- 😄 Pronouns: HE/HIM 
+- Currently learning JS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aadithapa456)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/Nym6ZfBfu2)  
