@@ -1,8 +1,4 @@
 ### Hi there 👋, This is Aaditya Thapa
-#### Currently studying at grade 11
-![Currently studying at grade 11](https://share.creavite.co/FtSVXcCIZ95dLtFq.gif)
-
-Skills: HTML/CSS//C
 
 - Currently learning JS
 
