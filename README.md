@@ -2,8 +2,6 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [aadityathapa.com.np](aadityathapa.com.np)
-
 - 📫 How to reach me **aadityathapa977@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
