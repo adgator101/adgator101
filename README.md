@@ -13,7 +13,7 @@ Hi, I am Aaditya Thapa a first year student from Itahari, Nepal. I love building
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aadithapa456&theme=dark&hide_border=false)<br/> <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadithapa456&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<a href="https://github.com/Aadithapa456/github-readme-activity-graph"><img alt="GD" src="https://github-readme-activity-graph.vercel.app/graph/?username=Aadithapa456&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" height="392px"/></a>
+<a href="https://github.com/Aadithapa456"><img alt="Aaditya" src="https://github-readme-activity-graph.vercel.app/graph/?username=Aadithapa456&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" height="392px"/></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
