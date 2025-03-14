@@ -12,9 +12,9 @@ Hi, I am Aaditya Thapa a first year student from Itahari, Nepal. I love building
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)  ![Chart.js](https://img.shields.io/badge/chart.js-%23FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aadithapa456&theme=dark&hide_border=false)<br/> <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadithapa456&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<a href="https://github.com/Aadithapa456"><img alt="Aaditya" src="https://github-readme-activity-graph.vercel.app/graph/?username=Aadithapa456&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" height="392px"/></a>
+![](https://github-readme-streak-stats.herokuapp.com/?user=adgator101&theme=dark&hide_border=false)<br/> <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adgator101&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<a href="https://github.com/adgator101"><img alt="Aaditya" src="https://github-readme-activity-graph.vercel.app/graph/?username=adgator101&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" height="392px"/></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
