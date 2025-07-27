@@ -1,8 +1,7 @@
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
 # About Me:
-Hi, I am Aaditya Thapa a first year student from Itahari, Nepal. I love building things and currently I'm on a quest to master JavaScript.
-
+Hi, I am Aaditya Thapa an undergraduate student from Nepal.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aditya.thapa.13) 
