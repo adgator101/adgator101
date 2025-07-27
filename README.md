@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate developer from Nepal</h3>
 
 # About Me:
 Hi, I am Aaditya Thapa an undergraduate student from Nepal.
