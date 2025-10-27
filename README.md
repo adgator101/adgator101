@@ -15,6 +15,8 @@ Hi, I am Aaditya Thapa an undergraduate student from Nepal.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adgator101&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <a href="https://github.com/adgator101"><img alt="Aaditya" src="https://github-readme-activity-graph.vercel.app/graph/?username=adgator101&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" height="392px"/></a>
 
+[![An image of @aadithapa456's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aadithapa456)](https://holopin.io/@aadithapa456)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
